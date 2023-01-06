@@ -1,0 +1,4 @@
+dht11 https://pdf1.alldatasheet.com/datasheet-pdf/view/1440068/ETC/DHT11.html
+cpps https://github.com/adidax/dht11/blob/b7fbbcd86fbfdfb639fb75791421af3979a6a9f8/dht11.cpp
+https://stackoverflow.com/questions/62105925/converting-arduino-digitalread-to-standard-c
+vib https://wiki.dfrobot.com/DFRobot_Digital_Vibration_Sensor_V2_SKU_DFR0027
